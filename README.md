@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![inspireHEP Badge](https://img.shields.io/static/v1?label=inspireHEP&message=Zsoldos&color=blue&?style=plastic&logo=googlescholar&link=https://inspirehep.net/authors/1492476)](https://inspirehep.net/authors/1492476)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=p3tru&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p3tru&layout=compact&theme=dracula&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p3tru&layout=compact&theme=dracula&langs_count=10&&exclude_repo=StG2022,T2K-TN-387,CV-zsoldos,ODTechNote)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=p3tru&theme=dracula)
