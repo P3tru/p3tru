@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Linkedin Badge](https://img.shields.io/badge/-stephane--zsoldos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephane-zsoldos/)](https://www.linkedin.com/in/stephane-zsoldos/)
 [![inspireHEP Badge](https://img.shields.io/static/v1?label=inspireHEP&message=Zsoldos&color=blue&?style=plastic&logo=googlescholar&link=https://inspirehep.net/authors/1492476)](https://inspirehep.net/authors/1492476)
 
 
