@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+I am a physicist performing data-driven research to understand key properties of our Universe. 
+I mainly work on the development and application of sophisticated software and statistical methods to solve problems. 
+I am a data viz enthusiast and I love a beautiful dashboard based on terminal and/or graphical UIs!
 
 <!--
 **P3tru/p3tru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
