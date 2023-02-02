@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https:// www.linkedin.com/in/stephane-zsoldos/)
-[![Linkedin Badge](https://img.shields.io/badge/inspireHEP-%40Zsoldos-blue)](https://inspirehep.net/authors/1492476)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![inspireHEP Badge](https://img.shields.io/static/v1?label=inspireHEP&message=Zsoldos&color=blue&?style=plastic&logo=googlescholar&link=https://inspirehep.net/authors/1492476)](https://inspirehep.net/authors/1492476)
+
 
 <h3 align="center">My Github Stats</h3>
 <p align="center">
