@@ -15,9 +15,10 @@ Mettre à profit mes compétences pour simplifier la complexité technique, clar
 - **Analyse avancée & Machine Learning** 🤖 : Utilisation d'algorithmes modernes pour analyser, modéliser et prédire les tendances, tout en facilitant la prise de décision stratégique.
 - **Méthodes numériques** 📈 : Passion pour l'application de méthodes numériques afin de reconstruire des phénomènes complexes, que ce soit via des équations différentielles ou des algorithmes d'apprentissage automatique.
 
-### Ce qui me distingue 🏆
+### Ce qui me distingue 🏆  
 ✨ **Expertise en physique appliquée** : J'utilise les outils de la physique, que ce soit pour des processus déterministes ou stochastiques, afin de décoder la complexité et d'apporter des solutions concrètes, même hors des contextes scientifiques traditionnels.  
-🌐 **Approche interdisciplinaire** : Mon parcours m'a appris à intégrer la physique, les mathématiques et l'informatique pour repousser les limites du design technique et de l'ingénierie avancée.
+🌐 **Approche interdisciplinaire** : Mon parcours  m'a appris à intégrer la physique, les mathématiques et l'informatique pour repousser les limites du design technique et de l'ingénierie avancée.  
+🏛️ **Collaborations prestigieuses** : J'ai eu l'honneur de travailler, enseigner et faire de la recherche au sein d'institutions de renommée mondiale telles que **King's College London**, **UC Berkeley**, et l'**Université de Tokyo**.  
 
 ### En quoi je peux vous aider 🤝
 - Clarifier des données complexes grâce à des visualisations percutantes et des analyses profondes.
